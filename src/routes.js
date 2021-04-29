@@ -2,6 +2,6 @@ export default {
   '/': 'App',
   '/users': 'Users',
   '/books': 'Books',
-  '/persons': 'Persons'
+  '/authors': 'Authors'
 
 }

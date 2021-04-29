@@ -4,8 +4,7 @@
       <li>
         <v-link href="/books">Books</v-link>
         <v-link href="/users">Users</v-link>
-        <v-link href="/app">App</v-link>
-        <v-link href="/about">About</v-link>
+        <v-link href="/authors">Authors</v-link>
 
       </li>
     </ul>
